@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Models and large assets
+models/
+
+# Generated audio / logs
+*.wav
+*.pcm
+*.log
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
